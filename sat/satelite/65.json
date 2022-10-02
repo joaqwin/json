@@ -1,0 +1,5 @@
+{
+    "id": 65,
+    "name": "GOES-R",
+    "info": "NOAA’s latest generation of Geostationary Operational Environmental Satellites (GOES), known as the GOES-R Series, is the nation’s most advanced fleet of geostationary weather satellites. Geostationary satellites circle the Earth in geosynchronous orbit, which means they orbit the Earth’s equatorial plane at a speed matching the Earth’s rotation. This allows them to stay in a fixed position in the sky, remaining stationary with respect to a point on the ground. GOES satellites continually view the Western Hemisphere from approximately 22,300 miles above Earth. GOES satellites are designated with a letter prior to launch and renamed with a number once they reach geostationary orbit. The GOES-R Series also continues the legacy Geostationary SAR (GEOSAR) function of the SARSAT system onboard NOAA’s GOES satellites which has contributed to the rescue of thousands of individuals in distress. The GOES-R Series SARSAT transponder operates with a lower uplink power than the previous system, enabling GOES-R Series satellites to detect weaker beacon signals."
+  }

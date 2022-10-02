@@ -1,0 +1,5 @@
+{
+    "id": 73,
+    "name": "GEDI",
+    "info": "The Global Ecosystem Dynamics Investigation (GEDI) produces high resolution laser ranging observations of the 3D structure of the Earth. GEDI’s precise measurements of forest canopy height, canopy vertical structure, and surface elevation greatly advance our ability to characterize important carbon and water cycling processes, biodiversity, and habitat.\nGEDI is a full-waveform lidar instrument that makes detailed measurements of the 3D structure of the Earth’s surface. Lidar is an active remote sensing technology (the laser version of radar) which uses pulses of laser light to measure 3D structure. The light is reflected by the ground, vegetation and any clouds and is then collected by GEDI’s telescope. These photons are then directed towards detectors, converting the brightness of the light to an electronic voltage which is then recorded as a function of time in 1 ns (15 cm) intervals. Time is converted to range (a distance) by multiplying by the speed of light. The recorded voltage as a function of range is the full-waveform.\n"
+  }
