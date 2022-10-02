@@ -1,0 +1,31 @@
+{
+    "catID" : 103,
+    "catName" : "ochenta",
+    "satelites" : [
+        {
+          "id": 14,
+          "name": "Dynamics Explorer 1",
+          "info": "The Dynamics Explorer (DE) mission's general objective is to investigate the strong interactive processes coupling the hot, tenuous, convecting plasmas of the magnetosphere and the cooler, denser plasmas and gases corotating in the earth's ionosphere, upper atmosphere, and plasmasphere. Two satellites, DE 1 and DE 2, were launched together and were placed in polar coplanar orbits, permitting simultaneous measurements at high and low altitudes in the same field-line region. The DE 1 spacecraft (high-altitude mission) uses an elliptical orbit selected to allow (1) measurements extending from the hot magnetospheric plasma through the plasmasphere to the cool ionosphere; (2) global auroral imaging, wave measurements in the heart of the magnetosphere, and crossing of auroral field lines at several earth radii; and (3) measurements for significant periods along a magnetic field flux tube. The spacecraft approximated a short polygon 137 cm in diameter and 115 cm high. The antennas in the X-Y plane measured 200-m tip-to-tip, and on the Z-axis are 9 meters tip-to-tip. Two six-meter booms are provided for remote measurements. Power is supplied by a solar cell array, mounted on the side and end panels. The spacecraft is spin stabilized, with the spin axis normal to the orbital plane, and the spin rate at ten plus or minus 0.1 rpm. A pulse code modulation (PCM) telemetry data system is used that operates in real time or in a tape-recorder mode. Data have been acquired on a science-problem-oriented basis, with closely coordinated operations of the various instruments, both satellites, and supportive experiments. Data acquired from the instruments are temporarily stored on tape recorders before transmission at an 8:1 playback-to-record ratio. Additional operational flexibility allows a playback-to-record ratio of 4:1. The primary data rate is 16,384 bits per second. Since commands are stored in a command memory unit, spacecraft operations are not real time, except for the transmission of the wideband analog data from the Plasma Wave Instrument (81-070A-02). On October 22, 1990 science operations were terminated. On February 28, 1991 Dynamics Explorer 1 operations were offically terminated."
+        },
+        {
+          "id": 15,
+          "name": "MOMS",
+          "info": "The Modular Optoelectronic Multispectral Scanner (MOMS) is a scanning system (based on CCD technique) for airborne and predominantly spaceborne geoscientific remote sensing application.Most important characteristic of MOMS is the modular arrangement of the CCD-sensor, electronics, optical lens system and filters that allow the instrument to be adapted for completely different geoscientific tasks or missions, as well as the refurbishment of the system between missions as demonstrated in practise."
+        },
+        {
+          "id": 16,
+          "name": "ERBS ",
+          "info": "NASA's Earth Radiation Budget Satellite (ERBS) was designed to investigate how energy from the Sun is absorbed and re-radiated by the Earth. Understanding this process helps reveal patterns in Earth's weather. One of the longest-running spacecraft missions to date, ERBS was launched on October 5, 1984 on the Space Shuttle Challenger and retired on October 14, 2005. The spacecraft was expected to have a two-year operation life, but ultimately, the mission provided scientific data about the Earth's ozone layer for more than two decades. What's more, ERBS observations have also been used to determine how human activities such as the use of chlorofluorocarbons (CFCs) and the burning of fossil fuels affect Earth's radiation balance. Data on the ozone layer provided by ERBS was key in the international community's decision-making process during the Montreal Protocol Agreement, which has resulted in a near elimination of CFCs in industrialized countries. It was ERBS data, in part, that led to the understanding that CFCs deplete atmospheric ozone concentrations."
+        },
+        {
+          "id": 17,
+          "name": "Geosat",
+          "info": "The U.S. Navy GEOdetic SATellite, GEOSAT, was launched on 12 March 1985, into an 800-km, 108-deg inclination orbit, carried an altimeter that was capable of measuring the distance from satellite to sea surface with a relative precision of about 5 cm. Geosat was a US Navy satellite designed to measure sea surface heights to within 5 cm. After a one-and-a-half year long classified mission for the Navy, Geosat's scientific Exact Repeat Mission (ERM) began on November 8, 1986. When the ERM ended in January 1990 (due to failures of both on-board tape recorders), more than three years of precise altimeter data were available to the scientific community."
+        },
+        {
+          "id": 18,
+          "name": "MOS-1",
+          "info": "Momo-1(MOS-1), Japan's first marine observation satellite, was launched in 1987 as a link in a global satellite observation system for more effective natural resource utilization and for environmental protection. Momo-1 was equipped with three types of sensors: MESSR,( a spectrometer for measuring visible near infrared radiation), VTIR, (a device for measuring visible thermal infrared radiation), MSR, (for measuring microwave radiation).These seusor finished their rolls oe seuding wave onNovember 29,1995. Momo-1b(MOS-1b), which has the same functions as Momo-1, was launched subsequently as a follow-up and finished its opration on April 17,1996."
+        }
+      ]
+}

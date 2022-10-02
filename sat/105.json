@@ -1,0 +1,86 @@
+{
+    "catID" : 101,
+    "catName" : "dosmil",
+    "satelites" : [
+        {
+          "id": 34,
+          "name": "SRTM",
+          "info": "On September 23, 2014, the White House announced that the highest-resolution topographic data generated from NASA's Shuttle Radar Topography Mission (SRTM) in 2000 was to be released globally by late 2015. The announcement was made at the United Nations Heads of State Climate Summit in New York. Since then the schedule was accelerated, and all global SRTM data have been released."
+        },
+        {
+          "id": 35,
+          "name": "Aqua",
+          "info": "Is a NASA Earth Science satellite mission named for the large amount of information that the mission is collecting about the Earth's water cycle, including evaporation from the oceans, water vapor in the atmosphere, clouds, precipitation, soil moisture, sea ice, land ice, and snow cover on the land and ice. Additional variables also being measured by Aqua include radiative energy fluxes, aerosols, vegetation cover on the land, phytoplankton and dissolved organic matter in the oceans, and air, land, and water temperatures.\nThe Aqua mission is a part of the NASA-centered international Earth Observing System (EOS). Aqua was formerly named EOS PM, signifying its afternoon equatorial crossing time. A timeline of Aqua on-orbit progress through the initial 120 day check-out period can be found here. Aqua was launched on May 4, 2002, and has six Earth-observing instruments on board, collecting a variety of global data sets.\n"
+        },
+        {
+          "id": 36,
+          "name": "NOAA Spacecraft",
+          "info": "NOAA-N collects information about Earth's atmosphere and environment to improve weather prediction and climate research across the globe. NOAA-N is the 15th in a series of polar-orbiting satellites dating back to 1978. NOAA uses two satellites, a morning and afternoon satellite, to ensure every part of the Earth is observed at least twice every 12 hours. Severe weather is monitored and reported to the National Weather Service which broadcasts the findings to the global community. With the early warning, effects of catastrophic weather events can be minimized.\nNOAA-N also has instruments to support an international search-and-rescue program. The Search and Rescue Satellite-Aided Tracking System, called COPAS-SARSAT, transmits to ground stations the location of emergency beacons from ships, aircraft and people in distress around the world. The program, in place since 1982, has saved about 18,000 lives.\n"
+        },
+        {
+          "id": 37,
+          "name": "GRACE",
+          "info": "The GRACE twin satellites, launched 17 March 2002, are making detailed measurements of Earth's gravity field changes and revolutionizing investigations about Earth's water reservoirs over land, ice and oceans, as well as earthquakes and crustal deformations. The two GRACE satellites have completed more than 13 years of continuous measurements!\n\nGRACE is a collaboration of the US and German space agencies (NASA and DLR). GRACE ground segment operations are currently co-funded by the GFZ German Research Centre for Geosciences and the European Space Agency (ESA). NASA, ESA, GFZ and DLR are supporting the continuation of the measurements of mass redistribution in the Earth system. The key partners in the design, construction and launch of the mission have been the Jet Propulsion Laboratory, the University of Texas Center for Space Research, GFZ German Research Centre for Geosciences, as well as Astrium GmBH, Space Systems Loral (SS/L), Onera and Eurockot GmBH."
+        },
+        {
+          "id": 38,
+          "name": "GRACE-FO",
+          "info": "The Gravity Recovery and Climate Experiment Follow-On (GRACE-FO) mission is a partnership between NASA and the German Research Centre for Geosciences (GFZ). GRACE-FO is a successor to the original GRACE mission, which orbited Earth from 2002-2017. GRACE-FO will carry on the extremely successful work of its predecessor while testing a new technology designed to dramatically improve the already remarkable precision of its measurement system."
+        },
+        {
+          "id": 39,
+          "name": "ICESat",
+          "info": "ICESat (Ice, Cloud,and land Elevation Satellite) was the benchmark Earth Observing System mission for measuring ice sheet mass balance, cloud and aerosol heights, as well as land topography and vegetation characteristics. From 2003 to 2009, the ICESat mission provided multi-year elevation data needed to determine ice sheet mass balance as well as cloud property information, especially for stratospheric clouds common over polar areas. It also provided topography and vegetation data around the globe, in addition to the polar-specific coverage over the Greenland and Antarctic ice sheets."
+        },
+        {
+          "id": 40,
+          "name": "SORCE",
+          "info": "The Solar Radiation and Climate Experiment (SORCE) is a NASA-sponsored satellite mission that is providing state-of-the-art measurements of incoming x-ray, ultraviolet, visible, near-infrared, and total solar radiation. The measurements provided by SORCE specifically address long-term climate change, natural variability and enhanced climate prediction, and atmospheric ozone and UV-B radiation. These measurements are critical to studies of the Sun; its effect on our Earth system; and its influence on humankind.\n\nThe SORCE spacecraft was launched on January 25, 2003 on a Pegasus XL launch vehicle to provide NASA’s Earth Science Enterprise (ESE) with precise measurements of solar radiation. It launched into a 645 km, 40 degree orbit and is operated by the Laboratory for Atmospheric and Space Physics (LASP) at the University of Colorado (CU) in Boulder, Colorado, USA. It will continue the precise measurements of total solar irradiance (TSI) that began with the ERB instrument in 1979 and has continued to the present with the ACRIM series of measurements. SORCE will also provide the measurements of the solar spectral irradiance from 1nm to 2000nm, accounting for 95% of the spectral contribution to TSI."
+        },
+        {
+          "id": 41,
+          "name": "Aura",
+          "info": "Aura (Latin for breeze) obtains measurements of ozone, aerosols and key gases throughout the atmosphere using technologically innovative space instrumentation. Scientists use these data to gain revolutionary insights into the chemistry of our atmosphere. The Aura spacecraft was successfully launched on July 15, 2004 aboard a Delta II 7920-10L, a two stage expendable rocket, from the Vandenberg Western Test Range. What is a Delta 7920-10L? The 7 refers to the Delta series, 9 is the number of solid motors, 2 is the type of second stage and 0 is the type of third stage, in this case none. Fairing is the covering that protects the Aura spacecraft during launch and its trip into orbit. 10L describes the fairing; in Aura's case the fairing is 10 ft, (3 m) in diameter and is 'stretched' approximately 3 ft. longer than the fairing on the 7920-10."
+        },
+        {
+          "id": 42,
+          "name": "Calipso",
+          "info": "The CALIPSO satellite provides new insight into the role that clouds and atmospheric aerosols play in regulating Earth's weather, climate, and air quality.\n\nCALIPSO combines an active lidar instrument with passive infrared and visible imagers to probe the vertical structure and properties of thin clouds and aerosols over the globe. CALIPSO was launched on April 28, 2006, with the CloudSat satellite.\n\nCALIPSO and CloudSat are highly complementary and together provide new, never-before-seen 3D perspectives of how clouds and aerosols form, evolve, and affect weather and climate. CALIPSO and CloudSat fly in formation with three other satellites in the A-train constellation to enable an even greater understanding of our climate system."
+        },
+        {
+          "id": 43,
+          "name": "Cloudsat",
+          "info": "The CloudSat mission was selected under NASA's Earth System Science Pathfinder program in 1999. Overseen by NASA's Science Mission Directorate, the Earth System Science Pathfinder Program sponsors missions designed to address unique, specific, highly focused scientific issues, and to provide measurements required to support Earth science research. Missions selected in this program are small- to- medium-sized and are capable of being built, tested, and launched quickly. They support a variety of scientific objectives related to Earth science, including studies of the atmosphere, oceans, land surface, polar ice regions, and solid Earth.\nCloudSat's primary mission is scheduled to continue for 22 months after launch in 2006, in order to allow more than one seasonal cycle to be observed, although radar lifetime data indicates that the radar is expected to operate for three years with a 99 percent probability.\n"
+        },
+        {
+          "id": 44,
+          "name": "OSTM/Jason-2",
+          "info": "The Ocean Surface Topography Mission (OSTM)/Jason-2 is an international satellite mission that will extend into the next decade the continuous climate record of sea surface height measurements begun in 1992 by the joint NASA/Centre National d'Etudes Spatiales (CNES) Topex/Poseidon mission and continued in 2001 by the NASA/CNES Jason-1 mission. This multi-decadal record has already helped scientists study global sea level rise and better understand how ocean circula-tion and climate change are related.\n\nDeveloped and proven through the joint efforts of NASA and CNES, high-precision ocean altimetry measures the distance between a satellite and the ocean surface to within a few centimeters. Accurate observations of variations in sea surface height-also known as ocean topography-provide scientists with information about the speed and direction of ocean cur-rents and heat stored in the ocean. This information, in turn, reveals global climate variations.\n\nWith OSTM/Jason-2, ocean altimetry has come of age. The mission will serve as a bridge to transition collection of these measurements to the world's weather and climate forecasting agencies, which will use them for short- and seasonal-to-long-range weather and climate forecasting."
+        },
+        {
+          "id": 45,
+          "name": "OCO",
+          "info": "The OCO mission was to provide space-based observations of atmospheric carbon dioxide (CO2), the principal human-initiated driver of climate change. This mission used mature technologies to address NASA's highest priority carbon cycle measurement requirement. The launch of OCO on February 24, 2009 was unsuccessful due to a launch vehicle failure. The Orbiting Carbon Observatory 2 (OCO-2) is planned for a launch in mid 2014."
+        },
+        {
+          "id": 46,
+          "name": "CHAMP",
+          "info": "During its mission, Challenging Mini-satellite Payload (CHAMP) generated simultaneously highly precise gravity and magnetic field measurements for the first time. These measurements have allowed scientists to detect the spatial variations of both fields as well as their variability with time. The CHAMP mission opened a new era in geopotential research with: 1) mapping of the Earth’s global long to medium wavelength gravity field and temporal variations; 2) mapping of the Earth’s global magnetic field and temporal variations and; 3) atmosphere/ionosphere sounding. As a result, CHAMP data has applications in global climate studies, oceanography, weather forecasting, disaster research, navigation, geophysics, geodesy, and solar terrestrial physics.\n\nCHAMP-derived data serve as an ideal basis for a further refinement of modern satellite surveying methods. They are also useful in remote sensing and cartography applications, such as in the construction of digital terrain models that cover large land and ice areas. The evaluation of all three types of signals that CHAMP observed allows a complete and integrated modeling of the structure and dynamics of the Earth’s core and mantle. Such an improvement strongly enhances studies concerning ths structure and composition of the Earth’s interior and will open new application areas in geodesy, solid Earth physics, and oceanography."
+        },
+        {
+          "id": 47,
+          "name": "TERRA",
+          "info": "Terra carries five instruments that observe Earth’s atmosphere, ocean, land, snow and ice, and energy budget. Taken together, these observations provide unique insight into how the Earth system works and how it is changing. Terra observations reveal humanity’s impact on the planet and provide crucial data about natural hazards like fire and volcanoes. Terra is an international mission carrying instruments from the United States, Japan, and Canada.\nTerra collects data about the Earth’s bio-geochemical and energy systems using five sensors that observe the atmosphere, land surface, oceans, snow and ice, and energy budget. Each sensor has unique features that enable scientists to meet a wide range of science objectives.\n"
+        },
+        {
+          "id": 48,
+          "name": "Earth-O 1",
+          "info": "The Earth Observing (EO-1) satellite was a one-year technology validation/demonstration mission designed to demonstrate new technologies and strategies for improved Earth observations; however, it has been extended beyond one year and still collects data. The satellite contains three observing instruments supported by a variety of newly developed space technologies"
+        },
+        {
+          "id": 49,
+          "name": "Jason-1",
+          "info": "Jason-1 was the first follow-on to the highly successful TOPEX/Poseidon mission. This second joint NASA-CNES mission was flown on a French spacecraft, and launched on an American Delta II rocket from Vandenburg Air Force Base in California. Like TOPEX/Poseidon, the payload included both American and French instruments.\n\nJason-1 altimeter data are part of a suite of data provided by other JPL-managed ocean missions. The GRACE mission uses two satellites to accurately measure Earth's gravity field (mass distribution), and the QuikSCAT scatterometer mission provided almost 11 years of ocean-surface winds. Jason-1 was decommissioned in July 2013, and continued the task of providing the important oceanographic data time-series originated by TOPEX/Poseidon for 11-1/2 years."
+        }
+      ]
+}

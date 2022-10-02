@@ -1,0 +1,81 @@
+{
+    "catID" : 104,
+    "catName" : "noventa",
+    "satelites" : [
+        {
+          "id": 19,
+          "name": "Crres",
+          "info": "The Combined Release and Radiation Effects Satellite (CRRES) was launched into a geosynchronous transfer orbit (GTO) for a nominal three-year mission to investigate fields, plasmas, and energetic particles inside the Earth's magnetosphere. As part of the CRRES program the SPACERAD (Space Radiation Effects) project, managed by Air Force Geophysics Laboratory, investigated the radiation environment of the inner and outer radiation belts and measured radiation effects on state-of-the-art microelectronics devices. Other magnetospheric, ionospheric, and cosmic ray experiments were included onboard CRRES and supported by NASA or the Office of Naval Research. Contact with the CRRES spacecraft was lost on October 12, 1991 and was presumed to be due to onboard battery failure."
+        },
+        {
+          "id": 20,
+          "name": "UARS",
+          "info": "The satellite was launched in 1991 by the Space Shuttle Discovery. It was 35 feet long, 15 feet in diameter, weighed 13,000 pounds, and carrierd 10 instruments. UARS orbited at an altitude of 375 miles with an orbital inclination of 57 degrees. Designed to operate for three years, six of its ten instruments functioned for over 14 years. UARS measured ozone and chemical compounds found in the ozone layer which affect ozone chemistry and processes. UARS also measured winds and temperatures in the stratosphere as well as the energy input from the Sun. Together, these help define the role of the upper atmosphere in climate and climate variability."
+        },
+        {
+          "id": 21,
+          "name": "Atlas",
+          "info": "ATLAS-1, the first of the ATLAS series of Shuttle flights, was an important part of the long-term, coordinated research that made up NASA's Mission to Planet Earth. The ATLAS-1 solar science instruments and several of the atmospheric science instruments (MAS, ATMOS and SSBUV) flew on future ATLAS missions. This was the first of a series studying the Earth's atmosphere and the Sun's influence upon it over an entire 11-year solar cycle. ATLAS-1 experiments focused on four scientific disciplines: atmospheric science, solar science, space plasma physics and astronomy. By making simultaneous solar and atmospheric measurements on a global scale, scientists hope to unravel the complicated web of man's impact on the environment."
+        },
+        {
+          "id": 22,
+          "name": "TOPEX",
+          "info": "Launched in 1992, TOPEX/Poseidon was a joint venture between CNES and NASA that measured ocean surface topography to an accuracy of 4.2 cm, enabled scientists to forecast the 1997-1998 El Niño, and improved understanding of ocean circulation and its effect of global climate. While a 3-year prime mission was planned, with a 5-year store of expendables, TOPEX/Poseidon delivered an astonishing 13+ years of data from orbit. The mission ended in January 2006. In those 13 years, it: Measured sea levels with unprecedented accuracy to better than 5 cm. Continuously observed global ocean topography\nMonitored effects of currents on global climate change and produced the first global views of seasonal changes of currents. Monitored large-scale ocean features like Rossby and Kelvin waves and studied such phenomena as El Niño, La Niña, and the Pacific Decadal Oscillation. Mapped basin-wide current variations and provided global data to validate models of ocean circulation. Mapped year-to-year changes in heat stored in the upper ocean. Produced the most accurate global maps of tides ever. Improved our knowledge of Earth's gravity field"
+        },
+        {
+          "id": 23,
+          "name": "SIR-C",
+          "info": "The SIR-C/X-SAR (Shuttle Imaging Radar with Payload C / X-SAR) payload was a cooperative NASA/JPL, DARA/DLR, and ASI (Agenzia Spaziale Italiana) project flown on Space Shuttle Endeavour. The SIR-C/X-SAR project was part of NASA's Mission to Planet Earth. The experiment is the next evolutionary step in NASA's SIR (Spaceborne Imaging Radar) program that began with the Seasat Synthetic Aperture Radar (SAR) in l978, and continued with SIR-A in l98l and SIR-B in l984. It also represents a continuation of Germany's imaging radar program which started with the MRSE (Microwave Remote Sensing Experiment) flown aboard the Shuttle on the first SPACELAB mission in l983.\n\nThis payload/mission is also known under the name of SRL (Space Radar Laboratory). It consisted of a radar antenna structure and associated radar system hardware designed to fit inside the Space Shuttle's cargo bay. The total payload mass was 11,000 kg with a power consumption of payload sensors of 3 - 9.0 kW. Two Shuttle missions were conducted, each of 10 days duration"
+        },
+        {
+          "id": 24,
+          "name": "RADARSAT-1",
+          "info": "RADARSAT-1 Canada's RADARSAT-1 is a radar satellite featuring variable resolution, and different view angles at a number of preset positions. This sophisticated remote sensing satellite was a Canadian-led project involving the United States. It carries a Synthetic Aperture Radar (SAR), a powerful microwave instrument that can transmit and receive signals to see through clouds and darkness, obtaining detailed images of the Earth. This provides significant advantages in viewing under conditions that preclude observation by aircraft or optical satellites. RADARSAT-1 collects data on resource management, ice, ocean and environmental monitoring and Arctic and off-shore surveillance. RADARSAT-1 also supports fishing, shipping, oil exploration, offshore drilling and ocean research. The RADARSAT-1 provides complete global coverage with the flexibility to support specific requirements. The Radar Satellite (RADARSAT-1) was a joint Canada (Canadian Space Agency/Canada Center for Remote Sensing) and United States (NASA) project. RADARSAT-1 is owned and operated by CSA; NASA provided the launch. RADARSAT was designed to provide detailed information on sea ice and terrestrial ice sheets for climate research, to produce radar imagery for geographical applications in oceanography, agriculture, forestry, hydrology, and geology, and to provide real-time products for arctic ocean navigation including ice surveillance."
+        },
+        {
+          "id": 25,
+          "name": "ADEOS",
+          "info": "The Advanced Earth Observing Satellite (ADEOS) was the first international space platform dedicated to Earth environmental research developed and managed by the National Space Development Agency of Japan (NASDA) (The Japanese call her MIDORI). The TOMS instrument along with NSCAT (a NASA Spectrometer designed to study wind speed and direction) were a major US components of the platform. ADEOS launched on August 17, 1996 (at 01:53 UT) into a Sun-synchronous sub-recurrent orbit of an altitude of approximately 830 km by an H-II launch vehicle from the Tanegashima Space Center."
+        },
+        {
+          "id": 26,
+          "name": "TOMS-EP",
+          "info": "TOMS-EP The Total Ozone Mapping Spectrometer, launched in July 1996 onboard an Earth Probe Satellite (TOMS/EP), continues NASA's long-term daily mapping of the global distribution of the Earth's atmospheric ozone. TOMS/EP will again take high-resolution measurements of the total column amount of ozone from space that began with NASA's Nimbus-7 satellite in 1978 and continued with the TOMS aboard a Russian Meteor-3 satellite until the instrument stopped working in December 1994. This NASA-developed instrument, measures ozone indirectly by mapping ultraviolet light emitted by the Sun to that scattered from the Earth's atmosphere back to the satellite. The TOMS instrument has mapped in detail the global ozone distribution as well as the Antarctic ozone hole, which forms September through November of each year. In addition to ozone, TOMS measures sulfur dioxide released in volcanic eruptions. The U.S. Federal Aviation Administration (FAA) is studying ways to use these measurements to detect volcanic ash clouds that are hazardous to commercial aviation."
+        },
+        {
+          "id": 27,
+          "name": "TRMM",
+          "info": "The Tropical Rainfall Measuring Mission (TRMM) is a joint mission between NASA and the Japan Aerospace Exploration (JAXA) Agency to study rainfall for weather and climate research. The TRMM satellite stopped collecting data on April 15, 2015. Launched in late November 1997, with a design lifetime of 3 years, the TRMM satellite produced over 17 years of valuable scientific data. TRMM carried 5 instruments: a 3-sensor rainfall suite (PR, TMI, VIRS) and 2 related instruments (LIS and CERES). TRMM delivered a unique 17-year dataset of global tropical rainfall and lightning. The TRMM dataset became the space standard for measuring precipitation, and led to research that improved our understanding of tropical cyclone structure and evolution, convective system properties, lightning-storm relationships, climate and weather modeling, and human impacts on rainfall. The data also supported operational applications such as flood and drought monitoring and weather forecasting."
+        },
+        {
+          "id": 28,
+          "name": "SeaWiFS",
+          "info": "The purpose of the Sea-viewing Wide Field-of-view Sensor (SeaWiFS) Project is to provide quantitative data on global ocean bio-optical properties to the Earth science community. Subtle changes in ocean color signify various types and quantities of marine phytoplankton (microscopic marine plants), the knowledge of which has both scientific and practical applications. The SeaWiFS Project will develop and operate a research data system that will process, calibrate, validate, archive and distribute data received from an Earth-orbiting ocean color sensor. A detailed description of the objectives, organization and operations as well as the current status of the SeaWiFS Project is available."
+        },
+        {
+          "id": 29,
+          "name": "LIS",
+          "info": "The Lightning Imaging Sensor (LIS), is a space-based instrument used to detect the distribution and variability of total lightning (cloud-to-cloud, intra-cloud, and cloud-to-ground lightning). It measures the amount, rate, and radiant energy of lightning during both day and night. Two LIS instruments were built in the 1990s, one for the Tropical Rainfall Measurement Mission (TRMM) and a spare which was stored on a shelf for over 20 years. A summary of the two platforms highlights the differences. The TRMM LIS operated successfully for over 17 years, from launch in 1997 until April 2015. The spare LIS was placed in Feb 2017 on the International Space Station (ISS) for a two - four year mission."
+        },
+        {
+          "id": 30,
+          "name": "Acrimsat",
+          "info": "ACRIMSAT was an American satellite to ascertain the extent of solar radiation variability, and was launched by a Taurus rocket from Vandenberg AFB. It carried an ACRIM-3 (Active Cavity Radiometer Irradiance Monitor) instrument to monitor solar irradiance at high accuracy (<0.1%) as a long term followup to the ACRIM-2 (carried on UARS spacecraft since 1991) and ACRIM-1 (carried on the SMM spacecraft in 1980)."
+        },
+        {
+          "id": 31,
+          "name": "TERRIERS",
+          "info": "The Tomographic Experiment using Radiative Recombinative Ionospheric EUV and Radio Sources (TERRIERS) project is the second satellite in NASA's Student Explorer Demonstration Initiative (STEDI) program. STEDI, managed for NASA by USRA, is a pilot program to demonstrate that high-quality space science can be carried out with small, low-cost (<$4.4 Million) free-flying satellites on a time scale of two years from go-ahead to launch.\n\nTERRIERS is a collaboration between the Center for Space Physics at Boston University, AeroAstro Inc. (satellite and ground station), the University of Illinois at Urbana-Champain, the Naval Research Laboratory, MIT's Haystack Observatory, Phillips Laboratory and Cleveland Heights High School. TERRIERS' primary goal is to demonstrate meridional 2-D (latitude-altitude) and global 3D imaging of the ionospheric electron density and thermospheric photo-emission profiles using EUV emissions and tomographic techniques. A secondary goal is the study of several ionospheric and thermospheric phenomena and a tertiary goal is to test the utility of a new technique for long term solar EUV irradiance measurements (GISSMO)."
+        },
+        {
+          "id": 32,
+          "name": "Landsat 7",
+          "info": "The government-owned Landsat 7 was successfully launched on April 15, 1999, from the Western Test Range of Vandenberg Air Force Base, California, on a Delta-II expendable launch vehicle. The Earth observing instrument on Landsat 7, the Enhanced Thematic Mapper Plus (ETM+), replicates the capabilities of the highly successful Thematic Mapper instruments on Landsats 4 and 5.\n\nThe ETM+ also includes additional features that make it a more versatile and efficient instrument for global change studies, land cover monitoring and assessment, and large area mapping than its design forebears."
+        },
+        {
+          "id": 33,
+          "name": "SeaWinds",
+          "info": "The SeaWinds instrument, which flies on NASA's Quick Scatterometer Earth satellite, is a specialized microwave radar that measures near-surface wind velocity and cloud cover over Earth's oceans.\n\nThe instrument is designed to improve weather predictions and models, in part to help plan for and anticipate extreme weather conditions such as floods, hurricanes and tsunamis."
+        }
+      ]
+}

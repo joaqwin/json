@@ -1,0 +1,21 @@
+{
+    "catID" : 107,
+    "catName" : "dosmilVeinte",
+    "satelites" : [
+        {
+          "id": 76,
+          "name": "Sentinel-6 Michael Freilich",
+          "info": "Designed to measure the height of the ocean - a key component to understanding how Earth's climate is changing - Sentinel-6/Jason CS consists of two identical satellites that will be launched five years apart. The staggered launches will help to ensure the continuation of a decades-long record of sea level observations out to 2030. A secondary objective of the mission will be to measure temperature and humidity in the troposphere, the atmospheric layer in which we live. The satellites will also look at the stratosphere, the layer right above the troposphere. An instrument on board the satellites uses the Global Navigation Satellite System Radio-Occultation sounding technique, which analyses changes in signals from international global navigation system satellites to determine atmospheric temperature and humidity.\nNASA is developing the mission with the European Space Agency, the European Organisation for the Exploitation of Meteorological Satellites, and the National Oceanic and Atmospheric Administration. The European Commission is providing funding support. France's space agency, the Center National d'Etudes Spatiales, is also supporting the mission.\n"
+        },
+        {
+          "id": 77,
+          "name": "Landsat 9",
+          "info": "Landsat 9—a partnership between NASA and the U.S. Geological Survey— continues the Landsat program’s critical role in monitoring, understanding and managing the land resources needed to sustain human life.\nToday’s increased rates of global land cover and land use change have profound consequences for weather and climate change, ecosystem function and services, carbon cycling and sequestration, resource management, the national and global economy, human health, and society.\nLandsat is the only U.S. satellite system designed and operated to repeatedly observe the global land surface at a moderate scale that shows both natural and human-induced change.\n"
+        },
+        {
+          "id": 78,
+          "name": "Coral",
+          "info": "It is estimated that 33-50% of coral reefs worldwide have been largely or completely degraded (International Society for Reef Studies Consensus Statement, October 2015). The COral Reef Airborne Laboratory (CORAL) will pave the way to better predict the future of this global ecosystem and steward them through global change. CORAL will provide the most extensive and uniform picture to date of coral reef condition through the use of the Portable Remote Imaging Spectrometer (PRISM) instrument aboard the Tempus Applied Solutions Gulfstream-IV (G-IV) aircraft. The objectives are Measure the condition of representative coral reefs across the global range of reef biogeophysical values. The primary indicators for coral reef condition are benthic cover (ratio of coral, algae, and sand), primary productivity, and calcification.\n"
+        }
+      ]
+}
